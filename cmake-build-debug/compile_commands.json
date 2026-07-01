@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/AKA/Desktop/CPE121/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\CPE121.dir\\main.cpp.obj -c C:\\Users\\AKA\\Desktop\\CPE121\\main.cpp",
+  "file": "C:/Users/AKA/Desktop/CPE121/main.cpp",
+  "output": "C:/Users/AKA/Desktop/CPE121/cmake-build-debug/CMakeFiles/CPE121.dir/main.cpp.obj"
+}
+]

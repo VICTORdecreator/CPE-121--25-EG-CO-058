@@ -1,0 +1,3 @@
+C:/Users/AKA/Desktop/CPE121/cmake-build-debug/CMakeFiles/CPE121.dir
+C:/Users/AKA/Desktop/CPE121/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/AKA/Desktop/CPE121/cmake-build-debug/CMakeFiles/rebuild_cache.dir
